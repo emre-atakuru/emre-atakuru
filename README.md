@@ -4,6 +4,6 @@ Undefined Developer with my own definition. Person who met coding at an early ag
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,php,js" />
+    <img src="https://skillicons.dev/icons?i=linux,c,python,php,js" />
   </a>
 </p>
